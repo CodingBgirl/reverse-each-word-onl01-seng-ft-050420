@@ -1,10 +1,12 @@
 
 def reverse_each_word(word)
+  #this took whatever i wanted to return and split all the words up into its on array
   reverse_each_word = word.split("")
   reverse_each_word = []
   reverse_each_word.each do |word|
     reverse_each_word << word.array
   end
+  #this turned it into a string
   reverse_each_word.join("")
 end
 def reverse_each_word(string)
