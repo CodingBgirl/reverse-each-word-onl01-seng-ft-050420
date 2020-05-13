@@ -1,5 +1,5 @@
+
 def reverse_each_word(word)
-  word.split
-  binding.pry
+  original_array = word.split("")
   end
 end
