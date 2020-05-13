@@ -7,3 +7,4 @@ def reverse_each_word(word)
   end
   reverse_each_word.join("")
 end
+reverse_each_word("Hello there, and how are you?")
