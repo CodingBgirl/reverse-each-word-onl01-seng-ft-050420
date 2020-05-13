@@ -18,4 +18,5 @@ def reverse_each_word(string)
   #this turned it into a string
   test_array.join(" ")
 end
+#returned the element
 reverse_each_word("Hello there, and how are you?")
